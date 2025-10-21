@@ -29,15 +29,14 @@ Built with **HTML, CSS, and JavaScript**, this portfolio highlights my journey i
 
 ## 🔗 Live Demo
 
-[👉 View Portfolio]
+[👉 https://july-portfolio-hackathon.vercel.app/]
 
 ---
 
 ## 📬 Contact Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
+ 
 - **GitHub:** [@mashaliaJ](https://github.com/mashaliaJ)  
-- **WhatsApp:** [Chat with me](https://wa.me/2547XXXXXXXX)  
+- **WhatsApp:** [Chat with me](https://wa.me/254706490015)  
 - **Email:** mashaliajosee@gmail.com  
 
 ---
